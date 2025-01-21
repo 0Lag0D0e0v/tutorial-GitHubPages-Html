@@ -1,1 +1,1 @@
-# tutorial-GitHubPages-Html
+Este repositório foi criado para demonstrar um pequeno projeto criado a partir de conhecimentos através da linguagem de marcação HTML5 e com estilização do site com CSS3 e renderização através do Javascript. Tudo isso foi criado, seguindo os conceitos básicos da Linguagem de marcação HTML5 estruturado.
